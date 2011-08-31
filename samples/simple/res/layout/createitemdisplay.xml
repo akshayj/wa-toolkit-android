@@ -1,0 +1,11 @@
+<LinearLayout android:id="@+id/CreateItemLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:gravity="center" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout android:id="@+id/CreateItemInnerLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<TextView android:id="@+id/CreateItemLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@+id/TextView01"></TextView>
+<EditText android:text="@+id/EditText01" android:id="@+id/CreateItemName" android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+</LinearLayout>
+
+<Button android:text="Create" android:id="@+id/CreateItemButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Upload Default Image" android:id="@+id/UploadDefaultImageButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+
+</LinearLayout>

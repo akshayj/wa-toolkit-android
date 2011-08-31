@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Azure Storage Client</string>
+<string name="proxylogin_screen_name">Proxy Authentication</string>
+<string name="storagetypeselector_screen_name">Storage Type</string>
+<string name="listdisplay_screen_name">List Name Placeholder</string>
+<string name="blobviewer_screen_name">Blob Name Placeholder</string>
+<string name="entitylist_screen_name">Entity List Placeholder</string>
+<string name="createdeleteselector_screen_name">Modify Item Placeholder</string>
+<string name="createitemdisplay_screen_name">Create Item Placeholder</string>
+<string name="deleteitemdisplay_screen_name">Delete Item Placeholder</string>
+<string name="modifyitemdisplay_screen_name">Modify Item Placeholder</string>
+</resources>

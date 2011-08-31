@@ -1,0 +1,5 @@
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:gravity="center" xmlns:android="http://schemas.android.com/apk/res/android">
+<Button android:text="Table Storage" android:id="@+id/TableStorageButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Blob Storage" android:id="@+id/BlobStorageButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Queue Storage" android:id="@+id/QueueStorageButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>

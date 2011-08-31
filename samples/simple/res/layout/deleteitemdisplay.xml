@@ -1,0 +1,9 @@
+<LinearLayout android:id="@+id/DeleteItemLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout android:layout_height="wrap_content" android:gravity="center" android:id="@+id/DeleteButtonLayout" android:layout_width="fill_parent">
+<Button android:layout_height="wrap_content" android:text="Delete" android:id="@+id/DeleteButton" android:layout_width="wrap_content"></Button>
+</LinearLayout>
+
+<ListView android:id="@+id/DeleteItemListView" android:layout_width="fill_parent" android:layout_height="wrap_content"></ListView>
+
+</LinearLayout>

@@ -1,0 +1,3 @@
+<LinearLayout android:id="@+id/BlobViewerLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+<ImageView android:id="@+id/BlobImageView" android:layout_width="fill_parent" android:layout_height="fill_parent"></ImageView>
+</LinearLayout>

@@ -1,0 +1,4 @@
+<LinearLayout android:id="@+id/LinearLayout03" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:gravity="center" xmlns:android="http://schemas.android.com/apk/res/android">
+<Button android:text="Create Container" android:id="@+id/CreateButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Delete Container" android:id="@+id/DeleteButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>

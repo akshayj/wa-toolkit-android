@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+<TextView android:layout_width="wrap_content" android:text="Use Proxy:" android:layout_height="wrap_content" android:id="@+id/TextView01" android:layout_x="20dip" android:layout_y="41dip"></TextView>
+<ToggleButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:id="@+id/useProxySwitch" android:layout_x="160dip" android:layout_y="31dip"></ToggleButton>
+<Button android:text="Start" android:layout_width="wrap_content" android:id="@+id/StartButton" android:layout_height="wrap_content" android:layout_x="113dip" android:layout_y="113dip"></Button>
+</AbsoluteLayout>
