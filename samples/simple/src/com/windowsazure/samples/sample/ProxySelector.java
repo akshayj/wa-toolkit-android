@@ -16,10 +16,8 @@ import android.widget.ToggleButton;
 public class ProxySelector extends Activity
 {
 
-//	public static String ACCOUNT = "account";
-//	public static String ACCESS_KEY = "accesskey";
-	public static String ACCOUNT = "iostest";
-	public static String ACCESS_KEY = "/9seXadQ9HwOpXUO1jKxFN8qVwluGWrRkDQS+wZrghS9a1wPNh1ysHBvj0q0zL34E/qcWkmygEBqNFSz6Yk2eA==";
+	public static String ACCOUNT = "account";
+	public static String ACCESS_KEY = "accesskey";
 	public static AuthenticationToken credential;
 
     @Override
