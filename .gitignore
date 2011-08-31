@@ -1,6 +1,5 @@
 .metadata
 .classpath
-.project
 .settings
 .DS_Store
 
@@ -8,7 +7,6 @@ bin
 gen
 target
 
-.project
 local.properties
 build.properties
 build.xml
