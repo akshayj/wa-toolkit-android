@@ -5,7 +5,7 @@ import com.windowsazure.samples.EdmType;
 
 public enum EdmType {
 	EdmBinary("Edm.Binary"),
-	EdmBoolean("Edm.Boolen"),
+	EdmBoolean("Edm.Boolean"),
 	EdmDateTime("Edm.DateTime"),
 	EdmDouble("Edm.Double"),
 	EdmGuid("Edm.Guid"),
